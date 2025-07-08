@@ -14,8 +14,8 @@ A full-stack web application that uses machine learning to predict autism spectr
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/vishalsb1/autism-prediction-app.git
-cd autism-prediction-app
+git clone https://github.com/vishalsb1/final_project.git
+cd final_project
 ```
 
 ### 2. Install Python Dependencies
