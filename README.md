@@ -178,6 +178,10 @@ This project is licensed under the MIT License.
 
 For questions or support, please open an issue on GitHub.
 
+```
+Note
+v2 comming soonnn......... 
+```
 ---
 
 **Built with ❤️ for autism awareness and accessibility**
