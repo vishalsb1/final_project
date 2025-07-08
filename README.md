@@ -31,10 +31,9 @@ python app.py
 ### 4. Open in Browser
 Go to: `http://localhost:5000`
 
-### 5. Share with Friends on Same Network
-Find your computer's IP address and share: `http://YOUR_IP_ADDRESS:5000`
+### 5. Test How It Works... Drop an review..
 
-## For Your Friends to Use:
+## User Manual
 
 ### Windows Users:
 1. Download Python from https://python.org
